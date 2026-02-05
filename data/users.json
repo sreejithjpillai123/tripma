@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "abc@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "securepass"
+  },
+  {
+    "id": "3",
+    "name": "Test User",
+    "email": "test@test.com",
+    "password": "123"
+  },
+  {
+    "id": "4",
+    "name": "sreejith",
+    "email": "sreejithpillai37@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": "5",
+    "name": "hello",
+    "email": "hello@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": "6",
+    "name": "arun",
+    "email": "arun@gmail.com",
+    "password": "123"
+  }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": "FL001",
+        "airline": "Hawaiian Airlines",
+        "flightNumber": "HA-101",
+        "origin": {
+            "city": "Unknown",
+            "code": "SFO",
+            "country": "USA"
+        },
+        "destination": {
+            "city": "Unknown",
+            "code": "JFK",
+            "country": "Japan"
+        },
+        "departureTime": "7:00AM",
+        "arrivalTime": "4:15PM",
+        "duration": "16h 45m",
+        "price": 624,
+        "class": "United Airlines",
+        "stops": "1 stop",
+        "stopsDetails": "2h 45m in HNL",
+        "type": "round trip",
+        "logo": "hawaiian"
+    },
+    {
+        "id": "FL002",
+        "airline": "Japan Airlines",
+        "flightNumber": "JL-202",
+        "origin": {
+            "city": "Unknown",
+            "code": "NRT",
+            "country": "USA"
+        },
+        "destination": {
+            "city": "Unknown",
+            "code": "LAX",
+            "country": "Japan"
+        },
+        "departureTime": "7:35 AM",
+        "arrivalTime": "12:15 PM",
+        "duration": "18h 22m",
+        "price": 663,
+        "class": "Economy",
+        "stops": "1 stop",
+        "stopsDetails": "50m in HKG",
+        "type": "round trip",
+        "logo": "japan"
+    },
+    {
+        "id": "FL003",
+        "airline": "Hawaiian Airlines",
+        "flightNumber": "HA-303",
+        "origin": {
+            "city": "Unknown",
+            "code": "JFK",
+            "country": "USA"
+        },
+        "destination": {
+            "city": "Unknown",
+            "code": "KIX",
+            "country": "Japan"
+        },
+        "departureTime": "8:20 AM",
+        "arrivalTime": "2:15 PM",
+        "duration": "18h 04m",
+        "price": 690,
+        "class": "Economy",
+        "stops": "1 stop",
+        "stopsDetails": "1h 50m in PVG",
+        "type": "round trip",
+        "logo": "hawaiian"
+    },
+    {
+        "id": "FL004",
+        "airline": "Delta",
+        "flightNumber": "DL-404",
+        "origin": {
+            "city": "Unknown",
+            "code": "ATL",
+            "country": "USA"
+        },
+        "destination": {
+            "city": "Unknown",
+            "code": "NRT",
+            "country": "South Korea"
+        },
+        "departureTime": "9:47 AM",
+        "arrivalTime": "4:15 PM",
+        "duration": "18h 52m",
+        "price": 756,
+        "class": "Economy",
+        "stops": "1 stop",
+        "stopsDetails": "4h 05m in ICN",
+        "type": "round trip",
+        "logo": "delta"
+    },
+    {
+        "id": "FL005",
+        "airline": "Hawaiian Airlines",
+        "flightNumber": "HA-505",
+        "origin": {
+            "city": "Unknown",
+            "code": "HNL",
+            "country": "USA"
+        },
+        "destination": {
+            "city": "Unknown",
+            "code": "NRT",
+            "country": "Japan"
+        },
+        "departureTime": "11:15 AM",
+        "arrivalTime": "7:45 PM",
+        "duration": "16h 05m",
+        "price": 837,
+        "class": "Economy",
+        "stops": "Nonstop",
+        "stopsDetails": "",
+        "type": "round trip",
+        "logo": "hawaiian"
+    },
+    {
+        "id": "FL006",
+        "airline": "Qantas",
+        "flightNumber": "QF-606",
+        "origin": {
+            "city": "Unknown",
+            "code": "SFO",
+            "country": "Australia"
+        },
+        "destination": {
+            "city": "Unknown",
+            "code": "JFK",
+            "country": "USA"
+        },
+        "departureTime": "10:55 AM",
+        "arrivalTime": "8:15 PM",
+        "duration": "15h 45m",
+        "price": 839,
+        "class": "Economy",
+        "stops": "Nonstop",
+        "stopsDetails": "",
+        "type": "round trip",
+        "logo": "qantas"
+    }
+]
